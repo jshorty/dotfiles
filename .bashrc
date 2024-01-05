@@ -4,6 +4,7 @@ alias gcm="git commit -m"
 alias gpr="git pull --rebase origin master"
 alias gpfwlo="git push --force-with-lease origin"
 
+alias ac="AUTOCORRECT_ALLOWED_QUERIES=1"
 alias t="bin/rails test"
 alias t-all="TEST_ALL_FEATURES=1 bin/rails test"
 
